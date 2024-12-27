@@ -235,8 +235,8 @@ const projects = [
       },
     ],
     image: coffee,
-    source_code_link: "https://github.com/Sniper-mostafa/Sniper",
-    live_demo_link: "https://sniper-ten.vercel.app",
+    source_code_link: "https://github.com/Sniper-mostafa/coffee-shop",
+    live_demo_link: "https://coffee-shop-one-eosin.vercel.app/",
   },
   {
     name: "Food Delivery Website",
